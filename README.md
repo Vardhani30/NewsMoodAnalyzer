@@ -111,4 +111,3 @@ sentiment_analysis_project/
 
 ```
 
-This structure and formatting should be compatible with GitHub's markdown renderer and make your README file look correct on your repository page.

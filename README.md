@@ -27,3 +27,5 @@
 
 The project is organized into the following directory structure:
 
+sentiment_analysis_project/ |-- data/ | |-- input/ | |-- Input.xlsx # Your input file | |-- output/ | |-- scraped_data.csv # Output after web scraping | |-- scripts/ | |-- web_scraping.py # Web scraping script | |-- sentiment_analysis.py # Sentiment analysis script | |-- requirements.txt # Python dependencies |-- app.py # Main script to run the project |-- README.md # Project documentation
+

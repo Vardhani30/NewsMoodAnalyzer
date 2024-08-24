@@ -109,5 +109,3 @@ sentiment_analysis_project/
 - This project uses libraries like Pandas, BeautifulSoup, and TextBlob.
 
 
-```
-

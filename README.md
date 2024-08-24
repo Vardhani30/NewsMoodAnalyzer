@@ -23,8 +23,25 @@
 - Capability to handle input and output through Excel files.
 - Modular code structure for easy maintenance and extension.
 
-## **Project Structure**
 
-The project is organized into the following directory structure:
+## **Requirements**
 
-sentiment_analysis_project/ ├── data/ │ ├── input/ │ │ └── Input.xlsx # Your input file │ └── output/ │ └── scraped_data.csv # Output after web scraping │ ├── scripts/ │ ├── web_scraping.py # Web scraping script │ └── sentiment_analysis.py # Sentiment analysis script │ ├── requirements.txt # Python dependencies ├── app.py # Main script to run the project └── README.md # Project documentation
+To run this project, you'll need the following software and libraries:
+
+- **Python** (version 3.6+)
+- **Pandas** (data manipulation)
+- **Openpyxl** (Excel file handling)
+- **BeautifulSoup** (web scraping)
+- **Requests** (HTTP requests)
+- **xlrd** (optional, but note its limitation on `.xlsx` files)
+- **TextBlob** (NLP for sentiment analysis)
+
+## **Installation**
+
+Follow these steps to set up and run the project:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/sentiment_analysis_project.git
+   cd sentiment_analysis_project

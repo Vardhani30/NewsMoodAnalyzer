@@ -107,7 +107,7 @@ sentiment_analysis_project/
 ## **Acknowledgments**
 
 - This project uses libraries like Pandas, BeautifulSoup, and TextBlob.
-- Thanks to Blackoffer for providing the data.
+
 
 ```
 

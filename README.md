@@ -1,6 +1,4 @@
-It looks like the README format needs to be adjusted to ensure it displays correctly on GitHub. Here’s a simplified version with proper formatting:
 
-```markdown
 # **Sentiment Analysis Project**
 
 ## **Project Overview**

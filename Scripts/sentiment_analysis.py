@@ -8,7 +8,7 @@ def analyze_sentiment(text):
 
 def main():
 
-    df = pd.read_csv('Data/output/scraped_data.csv')
+    df = pd.read_csv(r'C:\Users\vdtul\OneDrive\Documents\GitHub\NewsMoodAnalyzer\Data\input\output\scraped_data.csv')
     
     
     df['sentiment'] = df['content'].apply(analyze_sentiment)
